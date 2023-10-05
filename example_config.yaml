@@ -1,0 +1,9 @@
+# Don't forget to copy this file to config.yaml and change the values
+# cp example_config.yaml config.yaml
+
+thor:
+
+
+telegram:
+  admins:
+    - 12341234
